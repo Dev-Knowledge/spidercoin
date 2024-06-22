@@ -20,8 +20,8 @@ function Partners() {
                 <Image
                   src="/images/brand-1.png"
                   alt="brand-logo"
-                  width={50}
-                  height={50}
+                  width={80}
+                  height={80}
                 />
               </div>
             </div>
@@ -32,8 +32,8 @@ function Partners() {
                 <Image
                   src="/images/brand-2.png"
                   alt="brand-logo"
-                  width={50}
-                  height={50}
+                  width={80}
+                  height={80}
                 />
               </div>
             </div>
@@ -44,8 +44,8 @@ function Partners() {
                 <Image
                   src="/images/brand-3.png"
                   alt="brand-logo"
-                  width={50}
-                  height={50}
+                  width={80}
+                  height={80}
                 />
               </div>
             </div>
@@ -56,8 +56,8 @@ function Partners() {
                 <Image
                   src="/images/brand-4.png"
                   alt="brand-logo"
-                  width={50}
-                  height={50}
+                  width={80}
+                  height={80}
                 />
               </div>
             </div>
