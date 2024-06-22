@@ -32,12 +32,12 @@ function HowToBuy() {
               The Trump token Trump Meme Coin is easy to buy
             </p>
             <p className="lg:text-xl !leading-[1.3] mb-4 lg:mb-10">
-              We've created YouTube tutorials to show you can buy Trump on
-              Pancakeswap, but we are also available on several great crypto
-              exchanges!
+              {
+                "We've created YouTube tutorials to show you can buy Trump on Pancakeswap, but we are also available on several great crypto exchanges!"
+              }
             </p>
             <h6 className="text-xl md:text-2xl xl:text-[28px] !leading-[1.3] mb-4 lg:mb-9 text-[#ff7a00]">
-              6% Buy pr % Sell Silppage for PancakeSwap.
+              {"6% Buy pr % Sell Silppage for PancakeSwap."}
             </h6>
             <div className="grid gap-4 md:gap-6 mb-4 md:mb-10 xl:mb-12">
               <div className="bg-linear-bg p-0.5 rounded-[10px]">

@@ -11,10 +11,10 @@ function HeroSection() {
       >
         <div className="flex flex-col items-center justify-center gap-y-1 w-full md:w-1/2">
           <p className="text-lg lg:text-xl w-full text-white/80 md:text-left text-center ">
-            Contract Address : 0xaa078...e4964
+            {"Contract Address : 0xaa078...e4964"}
           </p>
           <h2 className="text-[40px] md:text-5xl lg:text-6xl xl:text-[80px] font-bold !leading-[1.2] md:text-left text-center  ">
-            LET'$ MAKE MEMES GREAT AGAIN
+            {"LET'$ MAKE MEMES GREAT AGAIN"}
           </h2>
           <p className="text-lg lg:text-xl !leading-[160%] md:text-left text-center ">
             SPIDERCOIN is a community made and owned Cryptocurrency project.
